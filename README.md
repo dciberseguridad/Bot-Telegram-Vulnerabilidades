@@ -18,3 +18,5 @@ systemctl enable nombre_del_servicio.service
 systemctl start nombre_del_servicio.service
 
 Con estos pasos ya tiene funcionando el aviso de vulnerabilidades 
+
+Yo lo tengo funcinando en una maquina virtual con Ubuntu con 1 GB de RAM 25 GB de HD con otros 5 Bots mas y va perfecto.
