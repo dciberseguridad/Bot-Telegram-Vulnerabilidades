@@ -1,4 +1,4 @@
-# bot_telegram_vulnerabilidades
+# bot telegram vulnerabilidades
 Bot para Telegram de Vulnerabilidades de servicios utilizados, para no estar pendientes de entrar en la web de Mitre y buscar los CVE de nuestros programas
 
 Para usar el BOT debes de seguir los siguientes pasos:
