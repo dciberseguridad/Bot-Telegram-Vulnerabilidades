@@ -96,6 +96,7 @@ if __name__ == "__main__":
         check_cve(SERVICIO2_URL, SERVICIO2_LOG_FILE)
         check_cve(SERVICIO3_URL, SERVICIO3_LOG_FILE)
         check_cve(SERVICIO4_URL, SERVICIO4_LOG_FILE)
+#Aqui sigue metiendo los servicios en el mismo formato que las filas anteriores
 
         time.sleep(3600)
 # Esperar una hora antes de buscar nuevas vulnerabilidades
