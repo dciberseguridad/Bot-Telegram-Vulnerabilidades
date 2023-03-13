@@ -1,0 +1,10 @@
+[Unit]
+Description=Bot Telegram Vulnerabilidades
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/usuario/Bots_Telegram/cve_bot_vulneravilidades.py
+
+[Install]
+WantedBy=multi-user.target
